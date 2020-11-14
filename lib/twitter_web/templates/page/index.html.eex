@@ -1,0 +1,54 @@
+<h1 align="center"> TWITTER 4.2</h1>
+<br>
+<br>
+<!-- <div id="name"></div> -->
+<p id="name">
+</p>
+<div id="chat-box">
+</div>
+<!-- <br>
+  <input type="text" placeholder="Enter number of users to  name here" id="loginUserName"></input>
+  <button type="submit" id="logInUser" class="button button2">USER LOGIN</button>
+  <br> -->
+
+<br>
+  <input type="text" placeholder="Enter user name here" id="loginUserName"></input>
+  <button type="submit" id="logInUser" class="button button2">USER LOGIN</button>
+  <br>
+  <br>
+  <button type="submit" id="user_register" class="button button2">REGISTER USER</button>
+<br>
+
+<br>
+  <!-- <button type="submit" id="tweet_channel" class="button button2">Tweet</button> -->
+  <textarea placeholder="Enter tweet here" id="user_tweet"></textarea>
+  <br>
+  <button type="submit" id="tweet_channel" align="right" class="button button2">TWEET</button>
+<br>
+
+
+
+   <input type="text" placeholder="Enter who to subscribe to" id="subscribe_to"></input>
+  <button type="submit" id="subscribe_to_channel" class="button button2">SUBSCRIBE</button>
+<br>
+   <input type="text" placeholder="Enter retweet Id here " id="retweet"></input>
+  <button type="submit" id="retweet-button" class="button button2">RETWEET</button>
+<br>
+<br>
+   <input type="text" placeholder="Enter user name to get their mentions" id="mentions_of"></input>
+  <button type="submit" id="mentions_channel" class="button button2">MENTIONS</button>
+<br>
+
+<br>
+   <input type="text" placeholder="Enter hashtag to search here" id="hashtag" ></input>
+  <button type="submit" id="hashtag_tweets_channel" class="button button2">HASHTAGS</button>
+<br>
+<br>
+<button type="submit" id="my_mentions_channel" class="button button2">MY MENTIONS</button>
+<br>
+<br>
+<button type="submit" id="get_feed" class="button button2">GET FEED</button>
+<br>
+<br>
+<div id="feed-box">
+</div>
